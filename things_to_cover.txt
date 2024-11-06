@@ -1,0 +1,6 @@
+• Basic Syntax and Data Types (variables, data types)
+• Control Structures (if statements, loops)
+• Functions (definition, parameters, return values, lambda functions)
+• Data Structures (lists, tuples, dictionaries)
+• File Handling (reading/writing files)
+• Error Handling (try-except blocks)
